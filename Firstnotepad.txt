@@ -1,0 +1,2 @@
+Hi I am created i notepad in my local and the i will add this file to staging area.
+Then i will commit my files to staging area then i will check the status and push my file to get repository server.
