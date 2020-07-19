@@ -2,3 +2,4 @@ Hi friends,
 Welcome to Gi.
 My first git notes.
 I am changing this file in locally and adding this files to git respository.
+merging 
